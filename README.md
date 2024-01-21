@@ -1,1 +1,1 @@
-# AI_assignments_5th_sem
+# AI_project_5th_sem
